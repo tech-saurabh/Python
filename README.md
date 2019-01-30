@@ -1,2 +1,2 @@
 # Python
-this is the General Python learning and problem solving repository
+this is the General Python learning and problem solving repository.
